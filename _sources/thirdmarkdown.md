@@ -50,7 +50,6 @@ Para compilar tu libro con GitHub Actions, tendrás que crear Una acción que ha
 
  4.Utiliza una acción para cargar ese código HTML en la rama.`gh-pages` `gh-pages`
 
-**HOOOOOOLLAAAA**
 
 ```{tip}
 Puedes usar el cortador de cookies de Jupyter Book para crear rápidamente una plantilla de libro que ya incluya el archivo de flujo de trabajo de GitHub Actions necesario para implementar automáticamente tu libro en GitHub Pages:
